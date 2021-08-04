@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'oanTuTi';
+    src: url(./assets/font/Pony.ttf);
+}
+
+.game-container {
+    background-image: url(./assets/images/bgGame.png);
+    height: 130vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'oanTuTi';
+}
+
+.fact {
+    font-size: 40px;
+    color: yellow;
+}
+
+.btnOanTuTi {
+    margin-left: 20px;
+}
+
+.btnOanTuTi img {
+    height: 50px;
+}
+
+.left {
+    background-color: white;
+    width: 40%;
+    padding-top: 30px;
+    height: 130px;
+    margin: 20px auto;
+    border-radius: 3px;
+    box-shadow: 1px 2px 16px 9px #04e5f5;
+}
+
+.right {
+    background-color: white;
+    width: 40%;
+    padding-top: 30px;
+    height: 130px;
+    margin: 20px auto;
+    border-radius: 3px;
+    box-shadow: 1px 2px 16px 9px #f50404;
+}
+
+.btnSelect {
+    box-shadow: 1px 2px 16px 9px #04f50c;
+}

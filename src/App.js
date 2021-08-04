@@ -1,13 +1,16 @@
 import "./App.css";
-import Car from "./car/Car";
-import Glass from "./glass/Glass";
+import OanTuTi from "./oan-tu-ti/OanTuTi";
+// import Car from "./car/Car";
+// import Glass from "./glass/Glass";
 
 const App = () => {
     return (
         <div className="App">
             {/* <Glass/> */}
 
-            <Car/>
+            {/* <Car/> */}
+
+            <OanTuTi/>
         </div>
     );
 }
