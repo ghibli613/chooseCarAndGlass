@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "title": "Crystal Black",
       "type": "Pearl",
       "img": "./images/icons/icon-black.jpg",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "Modern Steel",
       "type": "Metallic",
       "img": "./images/icons/icon-steel.jpg",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Lunar Silver",
       "type": "Metallic",
       "img": "./images/icons/icon-silver.jpg",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Rallye Red",
       "type": "Metallic",
       "img": "./images/icons/icon-red.jpg",
